@@ -78,7 +78,7 @@ b:hover{
     position:absolute;
     cursor: pointer;
     font-weight: bold;
-    top: 10%;
+/*     top: 10%; */
     font-size: 19px;
    background-color:  rgba(214, 188, 237, 0.525);
 }
@@ -97,7 +97,7 @@ ul:hover{
     display: block;
     position:absolute;
     cursor: pointer;
-    top: 10%;
+/*     top: 10%; */
     font-size: 15px;
    background-color:  rgba(214, 188, 237, 0.583);
 }
